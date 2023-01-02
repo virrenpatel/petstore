@@ -1,0 +1,4 @@
+io\swagger\petstore\curdtest\UserCURDTestWithSteps.class
+io\swagger\petstore\curdtest\PetCURDTestWithSteps.class
+io\swagger\petstore\curdtest\UserCRUDTest.class
+io\swagger\petstore\testbase\TestBase.class
